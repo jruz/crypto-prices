@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-recommended-scss",
+    "stylelint-config-prettier",
+  ],
+  "syntax": "scss",
+  "rules": {
+    "color-hex-length": "long",
+    "declaration-empty-line-before": "never",
+    "selector-pseudo-class-no-unknown": [true, { ignorePseudoClasses: ['global'] }]
+  }
+}
