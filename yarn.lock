@@ -4802,9 +4802,9 @@ stylelint-config-standard@^19.0.0:
     stylelint-config-recommended "^3.0.0"
 
 stylelint-scss@^3.12.0:
-  version "3.12.1"
-  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.12.1.tgz#0b06122a33dd2ef368121e920bd3ecfa323bedf2"
-  integrity sha512-k6B78HrqJ6pib5yOtmId7osVGrE2Amcf0VU+tdzk+oqwXe/0+VKtbkogeXrmGKt+z54QhxvjEO++qlE/a7EWlA==
+  version "3.16.1"
+  resolved "https://registry.yarnpkg.com/stylelint-scss/-/stylelint-scss-3.16.1.tgz#4164558f2113663e54101175588603e014cd0b9c"
+  integrity sha512-ATApYyUzIuwuppReVdAgjpJ77OXRQacV6Ff3vvYaT9z993ZOsSTEN+urdXsk9V28yWCLiAzcNjNZe01aw0VGBg==
   dependencies:
     lodash "^4.17.15"
     postcss-media-query-parser "^0.2.3"
